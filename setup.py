@@ -1,0 +1,1 @@
+import oscmd=os.systemcmd("python -m pip install pyautogui")

@@ -1,3 +1,4 @@
+#!python3
 import time as t
 import pyautogui as pag
 now=' '
