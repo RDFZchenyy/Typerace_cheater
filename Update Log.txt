@@ -1,0 +1,11 @@
+Update Log:
+
+###Beta Version###
+-V0.1
+  此版本为typecheat的基础源码
+-V0.2.0
+  此版本将C++版本的setup.exe使用python版本的setup.py替代，但不支持未安装pip模块的用户使用
+-V0.2.1
+  此版本将setup.py的代码通过try-except语句合并至主程序
+
+###Official Version###

@@ -1,6 +1,11 @@
 #!python3
 import time as t
-import pyautogui as pag
+try:
+    import pyautogui as pag
+except ImportError:
+    import os
+    os.system("python -m pip install pyautogui")
+    import pyautogui as pag
 now=' '
 word=''
 while now!='':
